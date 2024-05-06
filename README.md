@@ -1,7 +1,7 @@
 # app-dev
 My first Repository
 
-- [x] Write the press release
+- [x] Write and publish
 - [ ] Update the website
 - [ ] Contact the media
 
@@ -9,51 +9,51 @@ That is so funny! :Happy:
 
 ```
 {
-  "First Movie Name": "Avengers: Endgame",
-  "Second Movie Name": "Slenderman",
-  "Third Movie Name": "Pooh: the blood and honey"
+  "First Name": "John Mico",
+  "Last Name": "Ulapani",
+  "age": 24
 }
 ```
 ~~The world is flat.~~
 
 I need to highlight these ==very important words==.
 
-X^2^
+X^3^
 
 term
 : definition
 
-Here's a sentence with a footnote. [^1]
+The dinosaurs are extinct. [^1]
 
 [^1]: This is the footnote.
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Basketball | NBA|
+| 2 teams competing with one another | Nuggets vs. Lakers |
 
-# H1
-## H2
-### H3
+# TITLE
+## Subtitle
+### Content
 
-**bold text**
+**JOHN MICO ULAPANI**
 
-*italicized text*
+*John Mico Ulapani*
 
 > blockquote
 
-1. First item
-2. Second item
-3. Third item
+1. Shoes
+2. Ball  
+3. Socks
 
-- First item
-- Second item
-- Third item
+- Smartphone
+- Smart Tv
+- Air Conditioner
 
   `code`
 
   ---
 
-  [title](https://www.example.com)
+  [NBA League](https://www.NBA.com)
 
   	![alt text](image.jpg)
